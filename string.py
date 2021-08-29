@@ -81,4 +81,4 @@ oyun1="csgo"
 oyun2="valorant"
 print("{en_sevilen} oyununu {az_sevilen} oyunundan daha çok severim".format(en_sevilen = oyun1, az_sevilen = oyun2))  #nedense - işareti kullandığım için uzun süre uğraştım - kullanılmıyor _ kullan.
 
-#format için {} işareti önemli.
+#.format için {} işareti önemli.
