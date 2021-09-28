@@ -23,6 +23,6 @@ birimtüketim= int(aylıktüketim) / ay
 tüketimiktar= birimtüketim * ay * birimfiyat
 
 print("*"*100)
-print("Fatura miktarınız:",tüketimiktar)
+print("Günlük ortalama tüketiminiz: \t", birimtüketim,"\n","Fatura tutarınız:\t",tüketimiktar, "TL", sep="")
 
 # burada patladığım nokta eval fonksiyonu.
