@@ -1,3 +1,4 @@
-## Başlangıç seviyesinde XOX oyunu
-![xox0.1](https://user-images.githubusercontent.com/88904481/139674858-031ed3dc-b68d-4826-ba01-25976da76145.png)
+## Başlangıç seviyesinde XOX oyunu 0.2
+![image](https://user-images.githubusercontent.com/88904481/141996918-7be6198a-81f8-4e29-9947-75764d6ce176.png)
+
 
