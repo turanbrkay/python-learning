@@ -1,4 +1,9 @@
 import time
+print("""
+    BASİT XOX OYUNUNA HOŞGELDİNİZ
+OYUNU İLK ÜÇLEMEYİ YAPAN KAZANACAKTIR\n
+""")
+
 class Game():
 
     def __init__(self):
@@ -10,7 +15,7 @@ class Game():
         self.numbers = ["1","2","3","4","5","6","7","8","9"]
 
     def DisplayBoard(self):
-        print("-"*50)
+        print("-"*45,"\n")
         print(self.board[0], " | ",self.board[1]," | ",self.board[2],"\t\t","1 | 2 | 3")
         print(self.board[3]," | ", self.board[4]," | ", self.board[5],"\t\t","4 | 5 | 6")
         print(self.board[6]," | ", self.board[7]," | ", self.board[8],"\t\t","7 | 8 | 9")
