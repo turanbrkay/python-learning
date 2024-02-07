@@ -2,7 +2,7 @@ system="Kullanıcı adı ve parolanızı toplam 20 karakteri geçmeyecek şekild
 print(system)
 print("*"*len(system),sep=(""))
 kullanici_adi=input("Kullanıcı Adınız:")
-parola=input("Parolanız:")
+parola=input("Parolanız: ")
 
 uzunluk= len(kullanici_adi)+len(parola)
 
